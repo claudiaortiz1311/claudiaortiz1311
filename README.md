@@ -62,7 +62,9 @@ Beside's programming, I enjoy playing sports, reading books and comics, discover
 
 
 
-![Claudia's github stats](https://github-readme-stats.vercel.app/api?username=claudiaortiz1311&show_icons=true&hide_border=true)
+![Claudia's github stats](https://github-readme-stats.vercel.app/api?username=claudiaortiz1311&show_icons=true&hide_border=true&theme=gotham)
 
 ⭐️ From [claudiaortiz1311](https://github.com/claudiaortiz1311)
+<br />
+<img src="https://w0.peakpx.com/wallpaper/47/562/HD-wallpaper-akatsuki-rabbit-bugs-bunny-cartoon-crown-king-naruto-violet-thumbnail.jpg" alt="drive.com"  align="bottom" style="width:200px;height:300px;">
 
