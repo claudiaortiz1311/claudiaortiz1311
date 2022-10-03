@@ -1,16 +1,68 @@
-### Hi there 👋
 
-<!--
-**claudiaortiz1311/claudiaortiz1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/claudia-ortiz-285b0b172">
+  <img align="left" alt="Claudia's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Cortiz2991">
+  <img align="left" alt="Claudia's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/claudiam.ortiz?r=nametag">
+  <img align="left" alt="Claudia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi there 👋, I'm Claudia Ortiz, a Test Automation Engineer🐛🔍, from Argentina🇦🇷. Soon to graduate as an Information Systems Engineer👩🏻‍🎓 
+Beside's programming, I enjoy playing sports, reading books and comics, discover animals and traveling 🏐🎾⚽🛼🤸🏻‍♀️🚴🏻‍♀️🎪✈️📸🌎📚🐶🐱.
+<br />
+
+  <img align="right" alt="GIF" src="http://www.reactiongifs.com/r/atpthrd.gif" />
+  <br />
+  <br />
+
+**Talking about Personal Stuffs🙆🏻:**
+
+- 👩🏻‍💻 I’m currently working for [intive](https://intive.com/);
+- 🌱 I’m currently learning NodeJS;
+- 🤔 I’m looking for help to start with digital animation and design;
+- 📫 How to reach me: claudiaortiz1311@gmail.com
+- 📝[Resume](https://resume.io/r/t2R3Mkxu8)
+<br />
+<br />
+<br />
+
+**Languages and Tools ⚙️🔧** 
+<br />
+
+<a src="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
+<a src="https://www.selenium.dev/"><img src="https://img.icons8.com/color/48/000000/selenium.png"/></a>
+<a src="https://cucumber.io/"><img src="https://img.icons8.com/color/48/000000/cucumber.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+<a src="https://www.w3schools.com/sql/"><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
+<br />
+
+**In progress...🔋**  
+<br />
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+
+
+
+
+
+
+![Claudia's github stats](https://github-readme-stats.vercel.app/api?username=claudiaortiz1311&show_icons=true&hide_border=true)
+
+⭐️ From [claudiaortiz1311](https://github.com/claudiaortiz1311)
+
