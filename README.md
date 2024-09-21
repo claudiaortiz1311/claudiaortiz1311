@@ -23,11 +23,11 @@ Beside's programming, I enjoy playing sports, reading books and comics, discover
 
 **Talking about Personal Stuffs🙆🏻:**
 
-- 👩🏻‍💻 I’m currently working for [intive](https://intive.com/);
-- 🌱 I’m currently learning NodeJS;
-- 🤔 I’m looking for help to start with digital animation and design;
+- 👩🏻‍💻 I’m currently working for Patagonia Software;
+- 🌱 I’m currently learning NodeJS, Python, data processing, IA;
 - 📫 How to reach me: claudiaortiz1311@gmail.com
 - 📝[Resume](https://resume.io/r/t2R3Mkxu8)
+- ➰ [Resume](https://drive.google.com/file/d/1G14TZHC82XX7qt5OzA1jM7LYyN2cvukD/view?usp=sharing)
 <br />
 <br />
 <br />
