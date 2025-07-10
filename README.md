@@ -48,6 +48,7 @@
 <a src="https://www.java.com/en/"><img  width="22px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/></a>
 <a src="https://www.selenium.dev/"><img width="22px" src="https://img.icons8.com/?size=100&id=38553&format=png&color=000000"/></a>
 <a src="https://cucumber.io/"><img width="22px" src="https://img.icons8.com/?size=100&id=20758&format=png&color=000000"/></a>
+<a src="https://www.cypress.io/"><img width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAdtAAZAA0"/></a>
 <a src="https://www.javascript.com/"><img width="22px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/></a>
 <a src="https://www.typescriptlang.org/"><img width="22px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/></a>
 <a src="https://reactjs.org/"><img width="22px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/></a>
